@@ -1,0 +1,210 @@
+.boards {
+  width: 595px;
+  height: 595px;
+  border: 2px solid;
+  margin: auto;
+  padding: auto;
+}
+
+.board {
+  width: 560px;
+  height: 560px;
+  border: 3px solid;
+  margin-left: 15px;
+  margin-top: px;
+}
+
+.square {
+  float: left;
+  width: 70px;
+  height: 70px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.blak {
+  background-color: sienna;
+}
+
+.white {
+  background-color: rgb(235, 236, 157);
+}
+
+.figure {
+  font-size: 70px;
+}
+
+.boards {
+  background-color: rgb(121, 39, 10);
+}
+
+.edge {
+  color: beige;
+  font-size: 12px;
+
+}
+
+.a {
+  margin-left: 48px;
+  width: 50px;
+  height: 10px;
+}
+
+.b {
+  margin-left: 59px;
+  width: 50px;
+  height: 15px;
+}
+
+.c {
+  margin-left: 62px;
+  width: 50px;
+  height: 15px;
+}
+
+.d {
+  margin-left: 58px;
+  width: 50px;
+  height: 15px;
+}
+
+.e {
+  margin-left: 58px;
+  width: 50px;
+  height: 15px;
+}
+
+.f {
+  margin-left: 60px;
+  width: 50px;
+  height: 15px;
+}
+
+.g {
+  margin-left: 60px;
+  width: 50px;
+  height: 15px;
+}
+
+.h {
+  margin-left: 58px;
+  width: 50px;
+  height: 15px;
+}
+
+.edge1 {
+  color: beige;
+  position: absolute;
+  top: 90px;
+}
+
+.aa {
+  padding-right: 3px;
+  margin-left: 3px;
+  position: absolute;
+  top: -40px;
+}
+
+.bb {
+  padding-right: 3px;
+  margin-left: 3px;
+  position: absolute;
+  top: 30px;
+}
+
+.cc {
+  padding-right: 3px;
+  margin-left: 3px;
+  position: absolute;
+  top: 100px;
+}
+
+.dd {
+  padding-right: 3px;
+  margin-left: 3px;
+  position: absolute;
+  top: 170px;
+}
+
+.ee {
+  padding-right: 3px;
+  margin-left: 3px;
+  position: absolute;
+  top: 240px;
+}
+
+.ff {
+  padding-right: 3px;
+  margin-left: 3px;
+  position: absolute;
+  top: 310px;
+}
+
+.gg {
+  padding-right: 3px;
+  margin-left: 3px;
+  position: absolute;
+  top: 380px;
+}
+
+.hh {
+  padding-right: 3px;
+  margin-left: 3px;
+  position: absolute;
+  top: 450px;
+}
+
+.edge2 {
+  color: beige;
+  position: absolute;
+  top: 90px;
+}
+
+.aa1 {
+  margin-left: 584px;
+  position: absolute;
+  top: -40px;
+}
+
+.bb1 {
+  margin-left: 584px;
+  position: absolute;
+  top: 30px;
+}
+
+.cc1 {
+  margin-left: 584px;
+  position: absolute;
+  top: 100px;
+}
+
+.dd1 {
+  margin-left: 584px;
+  position: absolute;
+  top: 170px;
+}
+
+.ee1 {
+  margin-left: 584px;
+  position: absolute;
+  top: 240px;
+}
+
+.ff1 {
+  margin-left: 584px;
+  position: absolute;
+  top: 310px;
+}
+
+.gg1 {
+  margin-left: 584px;
+  position: absolute;
+  top: 380px;
+}
+
+.hh1 {
+  margin-left: 584px;
+  position: absolute;
+  top: 450px;
+}
